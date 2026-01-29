@@ -23,16 +23,36 @@
 ---
 
 ### Задание 1
+Что нужно сделать:
+
+1. Зарегистрируйте аккаунт на GitHub.
+2. Создайте новый отдельный публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
 
 ![Создание репозитория](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.1-1.2.PNG)
 
+3. Склонируйте репозиторий, используя https протокол git clone ....
+4. Перейдите в каталог с клоном репозитория.
+
 ![Клонирование репозитория](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.3-1.4.PNG)
+
+5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
+6. Выполните команду git status и запомните результат.
 
 ![Настройка и status](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.5-1.6.PNG)
 
+7. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
+8. Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
+9. Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
+
 ![Изменение файла и просмотр его статуса](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.7-1.9.PNG)
 
+10. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
+11. Ещё раз выполните команды git diff и git diff --staged.
+12. Теперь можно сделать коммит git commit -m 'First commit'.
+
 ![git add; git commit](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.10-1.12.PNG)
+
+13. Сделайте git push origin master.
 
 ![git push](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.13.PNG)
 
