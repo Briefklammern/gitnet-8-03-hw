@@ -106,8 +106,10 @@
 ![Задания 6-7](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/3.6-3.7.PNG)
 
 8. Не удаляйте ветку dev.
+
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
-![Название скриншота](ссылка на скриншот)`
+
+[Граф коммитов](https://github.com/Briefklammern/gitnet/network)
 
 ### Задание 4
 
