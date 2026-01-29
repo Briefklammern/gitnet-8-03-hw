@@ -78,6 +78,10 @@
 
 ![commit и push](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/2.3-2.4.png)
 
+В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
+[Последний commit](https://github.com/Briefklammern/gitnet/commit/f0af60a263bf85cf53436261e77f9af7d38bf5ee)
+
 ---
 
 ### Задание 3
