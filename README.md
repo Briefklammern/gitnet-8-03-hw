@@ -23,26 +23,14 @@
 ---
 
 ### Задание 1
-
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+`
+![Создание репозитория](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.1-1.2.PNG)
+![Клонирование репозитория](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.3-1.4.PNG)
+![Настройка и status](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.5-1.6.PNG)
+![Изменение файла и просмотр его статуса](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.7-1.9.PNG)
+![git add; git commit](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.10-1.12.PNG)
+![git push](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.13.PNG)
+`
 
 
 ---
