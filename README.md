@@ -56,6 +56,10 @@
 
 ![git push](https://github.com/Briefklammern/gitnet-8-03-hw/blob/main/img/1.13.PNG)
 
+В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
+![Последний коммит с 2мя строками](https://github.com/Briefklammern/gitnet/commit/ba0540c63193d59cd6c704e20b224bbc30963d87)
+
 
 ---
 
